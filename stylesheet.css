@@ -1,0 +1,133 @@
+@font-face {
+    font-family: "Oswald";
+    src: url(resources/oswald.ttf)
+}
+
+h2 {
+	font-size: 20px;
+    font-family: "Oswald";
+    color: #002e5f;
+    text-decoration: none;
+    margin-bottom: -40px;
+}
+
+h1 {
+    font-family: "Josefin Sans";
+	font-size: 72px;
+	color: #ffd801;
+    margin-bottom: -60px;
+    
+}
+
+.maintitle {
+    position: relative;
+    top: 20px;
+    left: -50px;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+body {
+	background-image: url("resources/bg.jpg")
+}
+
+.navbar {
+    position: relative;
+    text-align: left;
+    float: left;
+    width: 180px;
+    top: 200px;
+}
+
+.navlink {
+    float:left;
+	font-family: "Oswald";
+    background-color: rgba(0,0,0,.5);
+    color: #ffffff;
+    text-decoration: none;
+    position: relative;
+    left: -50px;
+    padding-left: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+}
+
+.navlink:hover {
+    background-color: #002e5f;
+}
+
+
+.centerblurb {
+    font-family: Oswald;
+    position: relative;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto; 
+    top: -350px;
+    left: 50px;
+    font-size: 24px;
+    color: #3b3b3b;
+}
+
+.fb-page {
+    position: relative;
+    top: 120px;
+}
+
+.suggestionbox {
+}
+
+.calender {
+}
+
+.blog {
+    border: none;
+    position: relative;
+    top: 150px;
+    width: 800px;
+    height: 1000px;
+}
+
+.rightbartitle {
+    font-family: 'Oswald';
+    margin-bottom: -15px;
+    color: #ffffff;
+    font-size:125%;
+}
+
+.rightbartext {
+    margin-bottom: 20px;
+}
+
+.rightbar {
+    float: right;
+    margin-left: 25px;
+    margin-right: 10px;
+    background-color: rgba(0,0,0,.5);
+    color: #ffffff;
+    position: relative;
+    text-align: left;
+    top: 220px;
+    width: 200px;
+}
+
+.seal {
+    z-index: -1;
+    position: fixed;
+    right: 100px;
+    top: -50px;
+    opacity: .7;
+    width: 400px;
+    height: 400px;
+}
+
+.tagline {
+    position: relative;
+    left: -10px;
+    top: 35px;
+    font-family: "Oswald";
+    color: #ffffff;
+}

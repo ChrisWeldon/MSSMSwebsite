@@ -30,12 +30,20 @@ h4 {
     font-family: Montserrat, sans-serif;
 }
 
-.minutes{
-  background-image: url("tomhenry.jpg");
+.fixed-img{
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
+}
+
+.minutes{
+  background-image: url("tomhenry.jpg");
+}
+
+.twotrees{
+  min-height: 200px;
+  background-image: url("twotrees.jpg")
 }
 
 .jumbotron > h1{

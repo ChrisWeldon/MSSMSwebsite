@@ -42,8 +42,17 @@ h4 {
 }
 
 .twotrees{
-  min-height: 200px;
+  min-height: 250px;
   background-image: url("twotrees.jpg")
+}
+
+.dnd{
+  min-height: 200px;
+  background-position: 50% -50%;
+  background-image: url("dndmcart.jpg");
+}
+.glyphicon.glyphicon-chevron-up {
+    font-size: 40px;
 }
 
 .jumbotron > h1{

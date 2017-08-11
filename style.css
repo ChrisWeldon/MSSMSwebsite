@@ -20,7 +20,7 @@ h4 {
 }
 .jumbotron {
     //background-color: #006897;
-    background-image: url("lanparty.jpg");
+    background-image: url("pictures/lanparty.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 150%;
@@ -38,18 +38,18 @@ h4 {
 }
 
 .minutes{
-  background-image: url("tomhenry.jpg");
+  background-image: url("pictures/tomhenry.jpg");
 }
 
 .twotrees{
   min-height: 250px;
-  background-image: url("twotrees.jpg")
+  background-image: url("pictures/twotrees.jpg")
 }
 
 .dnd{
   min-height: 200px;
   background-position: 50% -50%;
-  background-image: url("dndmcart.jpg");
+  background-image: url("pictures/dndmcart.jpg");
 }
 .glyphicon.glyphicon-chevron-up {
     font-size: 40px;
